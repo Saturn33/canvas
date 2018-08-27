@@ -1,0 +1,32 @@
+#signature {
+    width: 400px;
+    height: 200px;
+}
+.signature-wrapper {
+    width: 450px;
+    float: left;
+}
+.actions-wrapper {
+    width: 300px;
+    float: left;
+}
+.actions-wrapper input {
+    width: 300px;
+    padding: 3px;
+    margin: 10px;
+    float: left;
+}
+.hidden {
+    display: none;
+}
+.error {
+    clear: both;
+    display: block;
+    color: #f00;
+    font-size: 20pt;
+}
+.listlink {
+    display: block;
+    clear: both;
+    margin: 10px;
+}
